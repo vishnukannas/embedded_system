@@ -1,0 +1,18 @@
+﻿Hai guys,
+    In this blog we discuss about what are the various kinds of voltage sources we are seeing in any electronics devices we handling day by day that is like actully a 5 variants, they are
+1. Vcc = Voltage Collector Collector
+2. Vdd = Voltage Drain Drain
+3. Vss = Voltage Source Source
+4. Vee = Voltage Emitter Emitter
+5. GND = Ground
+why this difference happening, kindly refer below paragraph also
+Because of the two major transistor behind the story 
+1. Bipolar Junction Transistor
+In Bipolar terminals have like Base, Collector (Vcc), Emitter (Vee) 
+2. Field Effect Transistor
+In FET terminals are Gate, Drain(Vdd), Source(Vss) 
+
+
+
+
+
